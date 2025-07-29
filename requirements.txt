@@ -1,0 +1,7 @@
+yt-dlp==2025.6.30
+requests==2.32.4
+openai==1.97.0
+urllib3==2.2.3
+ijson==3.4.0
+paramiko==3.5.1
+tiktoken==0.9.0
