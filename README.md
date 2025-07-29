@@ -1,4 +1,4 @@
-# XtoText - Financial Prediction Extraction System
+Financial Prediction Extraction System
 
 A sophisticated multi-stage system for automatically extracting and tracking financial predictions from podcast transcripts. This tool uses advanced LLM processing to identify, extract, and analyze price predictions with high accuracy and comprehensive metadata.
 
