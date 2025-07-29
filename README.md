@@ -158,33 +158,6 @@ Approximate costs per episode:
 - Stage 3: $0.01-0.02
 - Total: $0.16-0.32 per episode
 
-## Troubleshooting
-
-### API Rate Limits
-The system handles rate limits automatically with:
-- Exponential backoff
-- Request queuing
-- Automatic retries
-
-### Memory Issues
-For large transcripts:
-- Adjust `CHUNK_SIZE` in config
-- Enable garbage collection
-- Process episodes individually
-
-### Accuracy Issues
-To improve extraction accuracy:
-- Upgrade Stage 1/2 models
-- Adjust asset name mappings
-- Fine-tune confidence thresholds
-
-## Contributing
-
-Contributions are welcome! Please:
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
 
 ## License
 
