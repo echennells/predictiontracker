@@ -4,7 +4,7 @@ A sophisticated multi-stage system for automatically extracting and tracking fin
 
 ## Overview
 
-XtoText processes podcast audio files to:
+processes podcast audio files to:
 - Transcribe audio using GPU-accelerated Whisper models
 - Extract financial predictions using a three-stage LLM pipeline
 - Track predictions with timestamps, confidence levels, and timeframes
