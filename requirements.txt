@@ -1,5 +1,5 @@
 yt-dlp==2025.6.30
-requests==2.32.4
+requests==2.33.0
 openai==1.97.0
 urllib3==2.2.3
 ijson==3.4.0
